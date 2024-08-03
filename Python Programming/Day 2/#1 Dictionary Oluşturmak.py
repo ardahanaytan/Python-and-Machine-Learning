@@ -1,0 +1,1 @@
+#DICTIONARYsozluk = {'REG' : 'Regresyon Modeli', 'LOJ' : 'Lojistik Regresyon', 'CART' : 'Classification and Reg'}len(sozluk)sozluk = {'REG' : ['RMSE', 10], 'LOJ' : ['MSE', 20], 'CART' : ['SSE', 30]}
